@@ -1,4 +1,4 @@
-  Information Business Website
+responsive-business-website
 
 A responsive information-based business website built using HTML, CSS, and Bootstrap 5. This project focuses on clean layout structure, modern UI design, and mobile-first responsiveness, making it suitable for showcasing business information, services, and brand identity.
 
